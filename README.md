@@ -1,1 +1,2 @@
 # Tourist-Guide-Routing-System-Discrete-Structures
+The tourist guide task involves efficiently transporting tourists between interconnected cities while minimizing resource usage. Each pair of neighboring cities is connected by a bus service with a maximum passenger limit. The guide must plan routes to accommodate all tourists without dropping them midway. The problem involves representing the road map using an adjacency matrix in Phase 1. In Phase 2, a C++ solution to the Tourist Problem is developed. The solution must be generic and capable of handling any input provided.
